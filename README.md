@@ -2,6 +2,8 @@
 
 This Python project implements a neural network using NumPy which is used to recognize handwritten digits.
 
+https://github.com/ba-reynolds/handwritten-digits/assets/166666791/983a4171-7435-4ef8-be72-86410a734394
+
 ## Training
 
 The neural network is trained using the [MNIST dataset](http://yann.lecun.com/exdb/mnist/), which contains 60,000 training images and 10,000 test images, all of size 28x28 pixels. The training process involves forward propagation to compute predictions, backpropagation to compute gradients, and gradient descent to update the weights and biases of the network.
